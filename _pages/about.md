@@ -1,24 +1,32 @@
 ---
 layout: about
-title: about
+title: Jithin Sam Varghese
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://nutrition.emory.edu/"><b>Nutrition and Health Sciences Doctoral Program</b></a>. Laney Graduate School, Emory University.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Rollins School of Public Health</p>
+    <p>Emory University</p>
+    <p>Atlanta, GA 30322</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third year PhD student in the Nutrition and Health Sciences program at Emory University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I study how wealth over the life course is associated with cognition and health (physical, mental, socio-emotional) in low- and middle-income countries.
+My work uses data from the <a href="https://academic.oup.com/ije/article/41/3/621/828836" target="_blank">COHORTS collaboration</a>, a consortium of six birth cohorts from five LMICs.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p> <b>Here is my <a href="/assets/pdf/JithinSamVargheseMay21.pdf"> CV</a></b></p> 
+
+<p><b>2018 - Present</b> Nutrition and Health Sciences Program, Emory University </p>    
+<p><b>2015 - 2018&emsp;   </b> Research Analyst, St. John's Research Institute </p>      
+<p><b>2014 - 2015&emsp;   </b> Junior Consultant, IMS Health </p>  
+<p><b>2009 - 2014&emsp;   </b> Dual Degree, Department of Biotechnology, IIT Madras </p>  
+
+ 	

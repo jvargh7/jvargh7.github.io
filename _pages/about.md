@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third year PhD student in the Nutrition and Health Sciences program at Emory University.
+I am a fourth year PhD student in the Nutrition and Health Sciences program at Emory University.
 
 I study how wealth over the life course is associated with cognition and health (physical, mental, socio-emotional) in low- and middle-income countries.
 My work uses data from the <a href="https://academic.oup.com/ije/article/41/3/621/828836" target="_blank">COHORTS collaboration</a>, a consortium of six birth cohorts from five LMICs.

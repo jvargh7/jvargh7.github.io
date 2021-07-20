@@ -22,7 +22,7 @@ I am a third year PhD student in the Nutrition and Health Sciences program at Em
 I study how wealth over the life course is associated with cognition and health (physical, mental, socio-emotional) in low- and middle-income countries.
 My work uses data from the <a href="https://academic.oup.com/ije/article/41/3/621/828836" target="_blank">COHORTS collaboration</a>, a consortium of six birth cohorts from five LMICs.
 
-<p> <b>Here is my <a href="/assets/pdf/JithinSamVargheseMay21.pdf"> CV</a></b></p> 
+<p> <b>Here is my <a href="/assets/pdf/JithinSamVargheseJul21.pdf"> CV</a></b></p> 
 
 <p><b>2018 - Present</b> Nutrition and Health Sciences Program, Emory University </p>    
 <p><b>2015 - 2018&emsp;   </b> Research Analyst, St. John's Research Institute </p>      

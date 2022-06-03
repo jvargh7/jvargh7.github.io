@@ -23,7 +23,7 @@ I study continuous glucose monitoring, etiology of Type 2 Diabetes from Electron
 
 As part of my <a href="https://nutrition.emory.edu/"><b>PhD</b></a>, I studied how wealth over the life course is associated with cognition and health (physical, mental, socio-emotional) in low- and middle-income countries. My work used data from the <a href="https://academic.oup.com/ije/article/41/3/621/828836" target="_blank">COHORTS collaboration</a>, a consortium of six birth cohorts from five LMICs.
 
-<p> <b>Here is my <a href="/assets/pdf/JithinSamVarghese_May2022.pdf"> CV</a></b></p> 
+<p> <b>Here is my <a href="/assets/pdf/JithinSamVarghese_Jun2022.pdf"> CV</a></b></p> 
 
 <p><b>2022 - 2024&emsp;   </b> Global Diabetes Research Center, Emory University </p> 
 <p><b>2018 - 2022&emsp;   </b> Nutrition and Health Sciences Program, Emory University </p>    

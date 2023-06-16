@@ -1,34 +1,76 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Stein":
+  - firstname: ["Aryeh", "A.", "A. D.", "Aryeh D."]
+    url: https://sph.emory.edu/faculty/profile/index.php?FID=aryeh-stein-53
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Patel":
+  - firstname: ["Shivani","S","S.A." ,"S. A.", "Shivani A."]
+    url: https://sph.emory.edu/faculty/profile/index.php?FID=shivani%20a.-patel-8776
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Ramirez-Zea":
+  - firstname: ["Manuel","M","M."]
+    url: https://www.gritconsortium.org/profiles/manuel-ramirez-zea
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Martorell":
+  - firstname: ["Reynaldo","R"]
+    url: https://en.wikipedia.org/wiki/Reynaldo_Martorell
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Narayan":
+  - firstname: ["KM Venkat","K. M. V.", "K.M. Venkat","K M V"]
+    url: https://sph.emory.edu/faculty/profile/index.php?FID=kabayam-venkat%20narayan-12559
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Adair":
+  - firstname: ["Linda","L.S.","L. S.","Linda S.","Linda S"]
+    url: https://sph.unc.edu/adv_profile/linda-adair-phd/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Maluccio":
+  - firstname: ["John","J.A.","J. A.","J","John A.","John A"]
+    url: https://sites.google.com/site/johnamaluccio/home
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Cunningham":
+  - firstname: ["Solveig","S.A.","S. A.","S","Solveig A."]
+    url: https://sph.emory.edu/faculty/profile/index.php?FID=solveig-argeseanu%20cunningham-560
+    
+"Gupta":
+  - firstname: ["Aashish"]
+    url: https://scholar.google.com/citations?user=vuhO9dAAAAAJ&hl=en
+    
+"Mehta":
+  - firstname: ["Rukshan","R.","Rukshan V.","Rukshan V","R V"]
+    url: https://scholar.google.co.in/citations?user=YS1cyJ8AAAAJ&hl=en 
+
+"Hall":
+  - firstname: ["Rachel","Rachel Waford","R.W.","R. W.","R.","R"]
+    url: https://sph.emory.edu/faculty/profile/index.php?FID=rachel-waford%20-8698
+
+"DiGirolamo":
+  - firstname: ["Ann","Ann M","Ann M.","A.M.","A.","A. M."]
+    url: https://ghpc.gsu.edu/profile/ann-digirolamo-2/
+"Di Girolamo":
+  - firstname: ["Ann","Ann M","Ann M.","A.M.","A.","A. M."]
+    url: https://ghpc.gsu.edu/profile/ann-digirolamo-2/
+
+"Thomas":
+  - firstname: ["Tinku","T.","T"]
+    url: https://sjri.res.in/epidemiology/keypersonnel/Dr.%20Tinku%20Thomas
+    
+"Kurpad":
+  - firstname: ["Anura","A.V.","A. V.", "Anura V","Anura Vishwanath"]
+    url: https://sjri.res.in/nutrition/keypersonnel/Dr.%20Anura%20V%20Kurpad
+
+"Swaminathan":
+  - firstname: ["Sumathi","S.","S"]
+    url: https://sjri.res.in/nutrition/keypersonnel/Dr.%20Sumathi%20Swaminathan
+
+"Cyriac":
+  - firstname: ["Shruthi","S.C.","Shruthi C.","Shruthi C","S"]
+    url: https://scholar.google.co.in/citations?user=R6x1QSMAAAAJ&hl=en
+
+"Mazariegos":
+  - firstname: ["Monica","M.","Mónica"]
+    url: https://scholar.google.com/citations?user=Z4Dbg20AAAAJ&hl=en
+
+"Kroker-Lobos":
+  - firstname: ["Maria F","Maria F.","M F","M. F.","Fernanda"]
+    url: https://gt.linkedin.com/in/fernanda-kroker-lobos-phd-5b41554
+    

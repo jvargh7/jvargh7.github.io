@@ -40,4 +40,4 @@ These projects are ideal for advanced masters or doctoral students who want hand
 
 ### Pre-requisites
 1. Proficiency in R or Python
-2. Pre-requisites: EPI 560 Epidemiologic Methods IV, EPI 568 Bias Analysis, Longitudinal Analysis (BIOS 502 or BIOS 525 or BIOS 526)
+2. Required Coursework: EPI 560 Epidemiologic Methods IV, EPI 568 Bias Analysis, Longitudinal Analysis (BIOS 502 or BIOS 525 or BIOS 526)

@@ -25,7 +25,7 @@ This is ongoing work with [Aamna Soniwala](https://www.linkedin.com/in/aamna-son
 
 
 ### Getting Involved
-These projects are ideal for advanced masters or doctoral students who are want to apply natural language processing techniques.
+These projects are ideal for advanced masters or doctoral students, who are independently skilled, to apply natural language processing techniques.
 
 1. Identifying key themes using NLP
 

@@ -45,5 +45,5 @@ These projects are ideal for doctoral students who are interested in global heal
 
 ### Pre-requisites
 1. Proficiency in R
-2. Pre-requisites: GH 523: Quantitative Methods or equivalent training in survey data analysis, EPI 568 Bias Analysis
-3. Ideal: EPI 563 Concepts and Applications in Spatial Epidemiology or equivalent training in spatial analysis
+2. Required Coursework: GH 523: Quantitative Methods or equivalent training in survey data analysis, EPI 568 Bias Analysis
+3. Ideal Coursework: EPI 563 Concepts and Applications in Spatial Epidemiology or equivalent training in spatial analysis

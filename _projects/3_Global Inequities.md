@@ -2,7 +2,7 @@
 layout: page
 title: Inequities in Precision Medicine
 description: Global inequities in precision medicine research for diabetes
-img: assets/img/p6_f1.jpg
+img: assets/img/p6_f1.JPG
 importance: 3
 category: current
 ---
@@ -16,7 +16,7 @@ This is ongoing work with [Aamna Soniwala](https://www.linkedin.com/in/aamna-son
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/p6_f1.jpg" title="Key findings" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/p6_f1.JPG" title="Key findings" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

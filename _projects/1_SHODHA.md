@@ -1,80 +1,49 @@
 ---
 layout: page
-title: Care Continuum
-description: Diagnosis, Treatment and Control of Chronic Disease in India
+title: Precision SHODHA
+description: Precision Surveillance of Hypertension, Obesity and Diabetes for Healthy Asia
 img: assets/img/p1_f1.png
 importance: 1
 category: current
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The **Precision SHODHA** project aims to provide state governments in India with actionable district-level insights on hypertension, obesity and diabetes care. The proposed project involves harmonizing datasets from national surveys, using small-area estimation techniques and decision sciences frameworks.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This is ongoing work with [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372) and [Dr. Nikhil Tandon](https://www.aiims.edu/index.php?option=com_content&view=article&id=14186&catid=92&lang=en).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+We are expanding our collaborations with Emory's Department of Biostatistics and Georgia Tech's School of Industrial and Systems Engineering.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+**Funding**: Emory Global Diabetes Research Center Internal Funds
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="row justify-content-sm-center">
+        {% include figure.html path="assets/img/p1_f2.png" title="Hypertension" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="row justify-content-sm-center">
+        {% include figure.html path="assets/img/p1_f3.jpg" title="Diabetes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Estimates of Hypertension and Diabetes Care Continuum in India from NFHS-5, 2019-21.
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### Publications
+1. [Varghese 2023 *JAMA Internal Medicine* on Diabetes](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2807945)
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+2. [Varghese 2023 *medRxiv* on Hypertension](https://www.medrxiv.org/content/10.1101/2023.06.02.23290909v1)
+
+### Getting Involved
+These projects are ideal for doctoral students who are interested in global health surveillance.
+
+1. Regional and socio-demographic disparities in cardiometabolic disease care continuum
+2. Cost effectiveness of intervening on different steps of disease care continuum
+3. Prevalence of cardiometabolic disease subphenotypes
+4. Population achievement of personalized targets for glycemic and blood pressure control in India
+5. Care continuum among youth-onset diabetes in India
+
+
+### Pre-requisites
+1. Proficiency in R
+2. Pre-requisites: GH 523: Quantitative Methods or equivalent training in survey data analysis, EPI 568 Bias Analysis
+3. Ideal: EPI 563 Concepts and Applications in Spatial Epidemiology or equivalent training in spatial analysis

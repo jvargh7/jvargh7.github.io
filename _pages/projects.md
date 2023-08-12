@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Current and Past projects completed (2016-Present)
+description: Some current projects I am working on
 nav: true
 nav_order: 2
-display_categories: [current, past]
+display_categories: [current]
 horizontal: false
 ---
 

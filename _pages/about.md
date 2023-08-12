@@ -19,11 +19,13 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Research Professor at the <a href="https://diabetes.emory.edu/" target="_blank">Emory Global Diabetes Research Center</a> and <a href="https://www.sph.emory.edu/departments/gh/index.html" target="_blank">Hubert Department of Global Health</a>. 
 
-I study continuous glucose monitoring, etiology of Type 2 Diabetes from Electronic Health Records, and social determinants of chronic disease among South Asians.
+###  Student Opportunities
+My current projects are on the <b><a href="/projects"> projects</a></b> page. I enjoy working with driven and curious <u>Undergraduate</u>, <u>Masters</u> and <u>Doctoral</u> students. Given the nature of the projects, prior coursework and demonstrating proficiency in programming is required. I am happy to [**meet**](https://calendly.com/jvargh7/general) and discuss how we can work together.
 
-As part of my <a href="https://nutrition.emory.edu/"><b>PhD</b></a>, I studied how wealth over the life course is associated with cognition and health (physical, mental, socio-emotional) in low- and middle-income countries. My work used data from the <a href="https://academic.oup.com/ije/article/41/3/621/828836" target="_blank">COHORTS collaboration</a>, a consortium of six birth cohorts from five LMICs.
+<p> <b>Here is a link to my <a href="/assets/pdf/JithinSamVarghese_Aug2023.pdf"> CV</a></b></p> 
+<p> <b>Here is a link to my <a href="https://calendly.com/jvargh7/general"> calendar</a></b></p> 
 
-<p> <b>Here is my <a href="/assets/pdf/JithinSamVarghese_Aug2023.pdf"> CV</a></b></p> 
+### Experience and Training
 
 <p><b>2023 - &emsp;&emsp;&emsp;&nbsp;  </b> Assistant Research Professor, Emory University </p> 
 <p><b>2022 - 2023&emsp;   </b> Postdoctoral Fellowship, Emory University </p> 
@@ -32,4 +34,9 @@ As part of my <a href="https://nutrition.emory.edu/"><b>PhD</b></a>, I studied h
 <p><b>2014 - 2015&emsp;   </b> Junior Consultant, IMS Health </p>  
 <p><b>2009 - 2014&emsp;   </b> Dual Degree, Department of Biotechnology, IIT Madras </p> 
 
+
+
  
+As part of my <a href="https://nutrition.emory.edu/"><b>PhD</b></a>, I studied how wealth over the life course is associated with cognition and health (physical, mental, socio-emotional) in low- and middle-income countries. My work used data from the <a href="https://academic.oup.com/ije/article/41/3/621/828836" target="_blank">COHORTS collaboration</a>, a consortium of six birth cohorts from five LMICs.
+
+As part of my Postdoctoral Fellowship, I worked with <a href="https://diabetes.emory.edu/" target="_blank">Global Diabetes Research Center</a> on three topics: diabetes subphenotypes, long COVID (post-acute sequelae) and cardiometabolic disease care continuum. 

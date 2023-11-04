@@ -34,7 +34,7 @@ This is ongoing work with [Dr. Rosette Chakkalakal](https://med.emory.edu/direct
 ### Getting Involved
 These projects are ideal for advanced masters or doctoral students who want hands-on experience with electronic health record data.
 
-1. Changes in healthcare utilization before and after COVID-19 infection
+1. Healthcare utilization before and after COVID-19 infection
 2. Association of prediabetes and obesity phenotypes with incident diabetes
 
 

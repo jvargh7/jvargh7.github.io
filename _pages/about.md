@@ -22,14 +22,14 @@ I am an Assistant Research Professor at the <a href="https://diabetes.emory.edu/
 ###  Student Opportunities
 My current projects are on the <b><a href="/projects"> projects</a></b> page. I enjoy working with driven and curious <u>Undergraduate</u>, <u>Masters</u> and <u>Doctoral</u> students. Given the nature of the projects I work on, some prior coursework and demonstrating proficiency in programming is ideal. I am happy to [**meet**](https://calendly.com/jvargh7/general) and discuss how we can work together.
 
-<p> <b>Here is a link to my <a href="/assets/pdf/JithinSamVarghese_Aug2023.pdf"> CV</a></b></p> 
-<p> <b>Here is a link to my <a href="https://calendly.com/jvargh7/general"> calendar</a></b></p> 
+<p> <b>Here is a link to my <a href="/assets/pdf/JithinSamVarghese_Nov2023.pdf"> CV</a></b></p> 
+<p> <b>Here is a link to my <a href="https://calendly.com/jvargh7"> calendar</a></b></p> 
 
 ### Experience and Training
 
 <p><b>2023 - &emsp;&emsp;&emsp;&nbsp;  </b> Assistant Research Professor, Emory University </p> 
 <p><b>2022 - 2023&emsp;   </b> Postdoctoral Fellowship, Emory University </p> 
-<p><b>2018 - 2022&emsp;   </b> Nutrition and Health Sciences Program, Emory University </p>    
+<p><b>2018 - 2022&emsp;   </b> Nutrition and Health Sciences Doctoral Program, Emory University </p>    
 <p><b>2015 - 2018&emsp;   </b> Research Analyst, St. John's Research Institute </p>      
 <p><b>2014 - 2015&emsp;   </b> Junior Consultant, IMS Health </p>  
 <p><b>2009 - 2014&emsp;   </b> Dual Degree, Department of Biotechnology, IIT Madras </p> 

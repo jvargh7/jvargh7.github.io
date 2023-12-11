@@ -3,7 +3,7 @@ layout: page
 title: Inequities in Precision Medicine
 description: Global inequities in precision medicine research for diabetes
 img: assets/img/p6_f1.JPG
-importance: 3
+importance: 4
 category: current
 ---
 

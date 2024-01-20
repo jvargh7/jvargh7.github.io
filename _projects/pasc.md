@@ -1,11 +1,13 @@
 ---
 layout: page
-title: PASC and Diabetes
-description: Cardiometabolic trajectories after SARS-CoV-2 infection
-img: assets/img/p3_f1.png
-importance: 2
+title: PASC
+description: SARS-CoV-2 infection and Incident Diabetes
+img: assets/img/pasc_f1.png
+importance: 5
 category: current
 ---
+
+## Cardiometabolic trajectories after SARS-CoV-2 infection
 
 The association between SARS-CoV-2 infection and incident T2DM has yet to be empirically quantified by race
 and/or ethnicity using rigorous methods and relevant variables for diverse populations, despite the markedly
@@ -23,7 +25,7 @@ This is ongoing work with [Dr. Rosette Chakkalakal](https://med.emory.edu/direct
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/p3_f1.png" title="PASC DAG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pasc_f1.png" title="PASC DAG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

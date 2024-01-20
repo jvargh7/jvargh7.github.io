@@ -1,22 +1,28 @@
 ---
 layout: page
-title: Diabetes Endotypes
-description: Endotypes of Type 2 Diabetes in Adults and Children
-img: assets/img/p4_f1.png
-importance: 3
+title: Subgroups of Diabetes
+description: Precision Medicine in Type 2 Diabetes
+img: assets/img/subgroups_f1.png
+importance: 2
 category: current
 ---
+
+There are two broad categories of projects under this theme:
+1. Defining Transportable Endotypes of Type 2 Diabetes
+2. Global Inequities in Precision Medicine Research for Diabetes
+
+
+## 1. Defining Transportable Endotypes of Type 2 Diabetes
 
 A novel approach for precision medicine for diabetes involves classifying newly diagnosed type 2 diabetes patients into data-driven endotypes based on their clinical characteristics (e.g., age at diagnosis, body mass index, HbA1c, HOMA2-IR, HOMA2-B). These endotypes vary in their genetic profile, presentation, responses to antihyperglycemic medication and risk of diabetes-related complications. However, reasons such as unavailability of HOMA2 indices in routinely collected clinical data, scarcity of data on endotypes derived from non-European populations, non-replicable cut-points for clinical variables and hard cluster assignment ignoring multifactorial nature of diabetes, preclude the widespread translation of this phenotyping approach from cohort studies to clinical practice. 
 
 
 This is ongoing work with [Dr. KM Venkat Narayan](https://sph.emory.edu/faculty/profile/index.php?FID=kabayam-venkat%20narayan-12559) and [Dr. Joyce C. Ho](https://joyceho.github.io/)
 
-**Funding**: Emory Global Diabetes Research Center
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/p4_f1.png" title="Endotypes Challenges" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/subgroups_f1.png" title="Endotypes Challenges" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,3 +54,34 @@ These projects are ideal for advanced masters or doctoral students who want hand
 1. Proficiency in R or Python
 2. Required Coursework: EPI 560 Epidemiologic Methods IV, EPI 568 Bias Analysis, Longitudinal Analysis (BIOS 502 or BIOS 525 or BIOS 526)
 3. Ideal Coursework: CS 534 Machine Learning
+
+## 2. Global Inequities in Precision Medicine Research for Diabetes
+
+While non-Europid populations contribute to nearly 80% of the global diabetes burdens, they are grossly underrepresented in precision medicine research.  We undertook an electronic search of literature in PubMed from 2010 to 2023 to identify studies in precision medicine in diabetes in populations from East Asia (EA), Latin America & Caribbean (LAC), Middle East & North Africa (MENA), South Asia (SA) and South East Asia & Pacific Islands (SEAP). We additionally included Central Asia, Central & Eastern Europe, and Sub-Saharan Africa in the subsequent analysis.
+
+
+This is ongoing work with [Aamna Soniwala](https://www.linkedin.com/in/aamna-soniwala-1524561b3), [Sophia Kim](https://www.linkedin.com/in/sophia-kim-b796a3251) and [Dr. K.M. Venkat Narayan](https://sph.emory.edu/faculty/profile/index.php?FID=kabayam-venkat%20narayan-12559)
+
+**Funding**: Emory Global Diabetes Research Center
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/subgroups_f2.JPG" title="Key findings" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Summary of findings presented at American Diabetes Association's Scientific Sessions 2023.
+</div>
+
+
+### Getting Involved
+These projects are ideal for advanced masters or doctoral students, who are independently skilled, to apply natural language processing techniques.
+
+1. Identifying key themes using NLP
+
+
+### Abstracts
+1. [Soniwala 2023 *Diabetes*](https://diabetesjournals.org/diabetes/article/72/Supplement_1/222-LB/149264)
+
+### Pre-requisites
+1. Proficiency in Python and Natural Language Processing

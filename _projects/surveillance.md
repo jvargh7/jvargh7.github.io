@@ -1,26 +1,27 @@
 ---
 layout: page
-title: Precision SHODHA
-description: Precision Surveillance of Hypertension, Obesity and Diabetes for Healthy Aging
-img: assets/img/p1_f1.png
+title: Surveillance
+description: Precision Public Health
+img: assets/img/surveillance_f1.png
 importance: 1
 category: current
 ---
 
-The **Precision SHODHA** project aims to provide state governments with actionable small areal insights on hypertension, obesity and diabetes care. The proposed project involves harmonizing datasets from national surveys, using small-area estimation techniques and decision sciences frameworks.
+## Precision Surveillance of Hypertension, Obesity and Diabetes for Healthy Aging
 
-This is ongoing work with [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372) and [Dr. Nikhil Tandon](https://www.aiims.edu/index.php?option=com_content&view=article&id=14186&catid=92&lang=en).
+The **Precision SHODHA** project aims to provide state and local governments with actionable small areal insights on hypertension, obesity and diabetes care in USA and India. The proposed project involves harmonizing datasets from national surveys and administrative sources, use small-area estimation techniques and decision sciences frameworks.
 
-We are expanding our collaborations with Emory's Department of Biostatistics and Georgia Tech's School of Industrial and Systems Engineering.
+This is ongoing work with [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372), [Dr. Nikhil Tandon](https://www.aiims.edu/index.php?option=com_content&view=article&id=14186&catid=92&lang=en) and [Erica Kocher](https://sph.emory.edu/phd-students/profile/index.php?FID=erica-kocher-13051).
 
-**Funding**: Emory Global Diabetes Research Center Internal Funds
+We collaborate with Emory's Department of Biostatistics ([Emily Peterson](https://sph.emory.edu/faculty/profile/index.php?FID=emily-peterson-12642)) and Georgia Tech's School of Industrial and Systems Engineering ([Gian Gabriel Garcia](https://giangabrielgarcia.com/)).
+
 
 <div class="row justify-content-sm-center">
     <div class="row justify-content-sm-center">
-        {% include figure.html path="assets/img/p1_f2.png" title="Hypertension" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/surveillance_f2.png" title="Hypertension" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="row justify-content-sm-center">
-        {% include figure.html path="assets/img/p1_f3.jpg" title="Diabetes" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/surveillance_f3.jpg" title="Diabetes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,6 +43,7 @@ These projects are ideal for doctoral students who are interested in domestic an
 4. Population achievement of personalized targets for glycemic and blood pressure control in India
 5. Care continuum among youth-onset diabetes in India
 6. Data visualization tools for continuum of care in India and USA
+7. Data fusion of real-world data, surveys and kiosk data for spatial statistics
 
 
 ### Pre-requisites

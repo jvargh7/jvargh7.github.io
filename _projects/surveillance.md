@@ -31,7 +31,6 @@ We collaborate with Emory's Department of Biostatistics ([Emily Peterson](https:
 
 ### Publications
 1. [Varghese 2023 *JAMA Internal Medicine*](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2807945) on Diabetes in India
-
 2. [Varghese 2023 *JAMA Network Open*](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2810984) on Hypertension in India
 
 ### Getting Involved

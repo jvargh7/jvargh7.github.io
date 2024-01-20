@@ -36,15 +36,15 @@ This is ongoing work with [Dr. Shivani Patel](https://sph.emory.edu/faculty/prof
 
 	
 ### Media Mentions
-1.National Heart, Lung and Blood Institute Animated Video [Studying the Prevalence of High Blood Pressure Among Couples](https://vimeo.com/868048963)
-2. Today Show Feature [Many couples share high blood pressure, new research suggest]	(https://www.youtube.com/watch?v=6UNjFNLXpp4&ab_channel=TODAY)
-3. CNN Article [If your spouse has high blood pressure, you’re more likely to have it too, study suggests](https://us.cnn.com/2023/12/06/health/high-blood-pressure-couples-study/index.html)
-4. Detroit Local 4 Interview [Does your partner have high blood pressure? You should get screened regularly](https://www.youtube.com/watch?v=EHRuN05QMs0)
-5. Fox 32 Chicago Interview [Couples often share high blood pressure, study shows](https://www.youtube.com/watch?v=QhhfbMr2nTE)
+1. National Heart, Lung and Blood Institute Animated Video: [Studying the Prevalence of High Blood Pressure Among Couples](https://vimeo.com/868048963)
+2. Today Show Feature: [Many couples share high blood pressure, new research suggests](https://www.youtube.com/watch?v=6UNjFNLXpp4&ab_channel=TODAY)
+3. CNN Article: [If your spouse has high blood pressure, you’re more likely to have it too, study suggests](https://us.cnn.com/2023/12/06/health/high-blood-pressure-couples-study/index.html)
+4. Detroit Local 4 Interview: [Does your partner have high blood pressure? You should get screened regularly](https://www.youtube.com/watch?v=EHRuN05QMs0)
+5. Fox 32 Chicago Interview: [Couples often share high blood pressure, study shows](https://www.youtube.com/watch?v=QhhfbMr2nTE)
 6. New York Post: [Being married will raise your blood pressure — but not for the reason you think: study](https://nypost.com/2023/12/06/lifestyle/being-married-will-raise-your-blood-pressure-but-not-for-the-reason-you-think-study/)
 
 ### Getting Involved
-These projects are ideal for advanced masters students and early stage doctoral students who want hands-on experience with cohort studies. Students will have an opportunity to lead a cross-institutional publication with experts from University of Michigan([Dr. Chihua Li](https://www.linkedin.com/in/chihua-li-38469a135)) and The University of Hong Kong ([Dr. Peiyi Lu](https://www.socialwork.hku.hk/peiyi/)).
+These projects are ideal for advanced masters students and early stage doctoral students who want hands-on experience with cohort studies. Students will have an opportunity to lead a cross-institutional publication with experts from University of Michigan ([Dr. Chihua Li](https://www.linkedin.com/in/chihua-li-38469a135)) and The University of Hong Kong ([Dr. Peiyi Lu](https://www.socialwork.hku.hk/peiyi/)).
 
 1. Incidence of diabetes, hypertension and dyslipidemia after a partner's diagnosis
 2. Concordance of diabetes among couples: a cross-national study

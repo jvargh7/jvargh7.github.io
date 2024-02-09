@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Wealth
+title: Social Mobility
 description: Wealth over the life course
-img: assets/img/pasc_f1.png
+img: assets/img/wealth_f1.png
 importance: 6
 category: past
 ---

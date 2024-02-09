@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some current projects I am working on
 nav: true
 nav_order: 2
-display_categories: [current]
+display_categories: [current, past]
 horizontal: false
 ---
 

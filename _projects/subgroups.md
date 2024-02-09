@@ -17,7 +17,7 @@ There are two broad categories of projects under this theme:
 A novel approach for precision medicine for diabetes involves classifying newly diagnosed type 2 diabetes patients into data-driven endotypes based on their clinical characteristics (e.g., age at diagnosis, body mass index, HbA1c, HOMA2-IR, HOMA2-B). These endotypes vary in their genetic profile, presentation, responses to antihyperglycemic medication and risk of diabetes-related complications. However, reasons such as unavailability of HOMA2 indices in routinely collected clinical data, scarcity of data on endotypes derived from non-European populations, non-replicable cut-points for clinical variables and hard cluster assignment ignoring multifactorial nature of diabetes, preclude the widespread translation of this phenotyping approach from cohort studies to clinical practice. 
 
 
-This is ongoing work with [Dr. KM Venkat Narayan](https://sph.emory.edu/faculty/profile/index.php?FID=kabayam-venkat%20narayan-12559) and [Dr. Joyce C. Ho](https://joyceho.github.io/)
+This is ongoing work with [Dr. KM Venkat Narayan](https://sph.emory.edu/faculty/profile/index.php?FID=kabayam-venkat%20narayan-12559), [Dr. Joyce C. Ho](https://joyceho.github.io/) and [Zhongyu Li](https://www.linkedin.com/in/zhongyu-li-46680924b).
 
 
 <div class="row">
@@ -32,7 +32,7 @@ This is ongoing work with [Dr. KM Venkat Narayan](https://sph.emory.edu/faculty/
 
 ### Publications
 1. [Varghese 2023](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(23)00195-X/fulltext) *Lancet Diabetes & Endocrinology* Commentary on Replicability of Endotypes
-1. [Varghese 2023](https://www.primary-care-diabetes.com/article/S1751-9918(22)00151-6/fulltext) *Primary Care Diabetes* Brief Report on Ethnic Differences of Endotypes
+2. [Varghese 2023](https://www.primary-care-diabetes.com/article/S1751-9918(22)00151-6/fulltext) *Primary Care Diabetes* Brief Report on Ethnic Differences of Endotypes
 3. [Varghese 2021](https://pubmed.ncbi.nlm.nih.gov/33720761/) *Diabetes Technology & Therapeutics* on CGM-derived Endotypes
 
 ### Getting Involved
@@ -60,7 +60,7 @@ These projects are ideal for advanced masters or doctoral students who want hand
 While non-Europid populations contribute to nearly 80% of the global diabetes burdens, they are grossly underrepresented in precision medicine research.  We undertook an electronic search of literature in PubMed from 2010 to 2023 to identify studies in precision medicine in diabetes in populations from East Asia (EA), Latin America & Caribbean (LAC), Middle East & North Africa (MENA), South Asia (SA) and South East Asia & Pacific Islands (SEAP). We additionally included Central Asia, Central & Eastern Europe, and Sub-Saharan Africa in the subsequent analysis.
 
 
-This is ongoing work with [Aamna Soniwala](https://www.linkedin.com/in/aamna-soniwala-1524561b3), [Sophia Kim](https://www.linkedin.com/in/sophia-kim-b796a3251) and [Dr. K.M. Venkat Narayan](https://sph.emory.edu/faculty/profile/index.php?FID=kabayam-venkat%20narayan-12559)
+This is ongoing work led by [Aamna Soniwala](https://www.linkedin.com/in/aamna-soniwala-1524561b3) and [Sophia Kim](https://www.linkedin.com/in/sophia-kim-b796a3251).
 
 **Funding**: Emory Global Diabetes Research Center
 

@@ -32,6 +32,9 @@ This is ongoing work with [Dr. Rosette Chakkalakal](https://med.emory.edu/direct
     Conceptual framework for proposed analysis.
 </div>
 
+### Publications
+
+1. [Varghese 2024](https://www.medrxiv.org/content/10.1101/2024.02.12.24302697v1) *medRxiv (Under Review)* on association of SARS-CoV-2 infection and body mass index changes. 
 
 ### Getting Involved
 These projects are ideal for advanced masters or doctoral students who want hands-on experience with electronic health record data.

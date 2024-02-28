@@ -31,7 +31,7 @@ This is ongoing work with [Dr. KM Venkat Narayan](https://sph.emory.edu/faculty/
 
 
 ### Publications
-1. [Varghese 2023](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(23)00195-X/fulltext) *Lancet Diabetes & Endocrinology* Commentary on Replicability of Endotypes
+1. [Varghese 2023](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(23)00195-X/fulltext) *Lancet Diabetes & Endocrinology* Correspondence on Replicability of Endotypes
 2. [Varghese 2023](https://www.primary-care-diabetes.com/article/S1751-9918(22)00151-6/fulltext) *Primary Care Diabetes* Brief Report on Ethnic Differences of Endotypes
 3. [Varghese 2021](https://pubmed.ncbi.nlm.nih.gov/33720761/) *Diabetes Technology & Therapeutics* on CGM-derived Endotypes
 
@@ -40,8 +40,8 @@ These projects are ideal for advanced masters or doctoral students who want hand
 
 #### If you are interested in adult-onset type 2 diabetes:
 1. Classify endotypes of newly diagnosed adult type 2 diabetes from cohort studies using variables available in electronic health records
-2. Visualize distribution of endotypes in Florida by county, race-ethnicity, sex, and age groups
-3. Describe trends in prescribed medications, clinical parameters, and risk of complications among EHR-derived newly diagnosed type 2 diabetes endotypes in OneFlorida+. 
+2. Visualize distribution of endotypes in EHR systems by county, race-ethnicity, sex, and age groups
+3. Describe trends in prescribed medications, clinical parameters, and risk of complications among EHR-derived newly diagnosed type 2 diabetes endotypes. 
 4. Develop a ‘2-year risk’ multi-class prediction model for phenotype membership using electronic health records from two clinical research networks and evaluate domain generalization
 
 #### If you are interested in youth-onset type 2 diabetes:

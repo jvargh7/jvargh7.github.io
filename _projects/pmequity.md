@@ -2,7 +2,7 @@
 layout: page
 title: Global Research Equity
 description: Discordance between Diabetes Cases and Research in Precision Medicine
-img: assets/img/pmequity_f1.jpg
+img: assets/img/pmequity_f1.JPG
 importance: 5
 category: current
 ---

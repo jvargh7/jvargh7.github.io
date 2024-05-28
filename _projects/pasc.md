@@ -3,8 +3,8 @@ layout: page
 title: PASC
 description: SARS-CoV-2 infection and Incident Diabetes
 img: assets/img/pasc_f1.png
-importance: 5
-category: current
+importance: 6
+category: past
 ---
 
 ## Cardiometabolic trajectories after SARS-CoV-2 infection
@@ -19,7 +19,7 @@ the rapidly growing population of patients experiencing PASC in terms of diabete
 cardiometabolic risk assessment in the months and years after SARS-CoV-2 infection.
 
 
-This is ongoing work with [Dr. Rosette Chakkalakal](https://med.emory.edu/directory/profile/?u=RCHAKKA), [Dr. W Troy Donahoo](https://ufhealth.org/doctors/william-t-donahoo), [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372) and [Dr. Yi Guo](https://hobi.med.ufl.edu/profile/guo-yi/).
+This is past work with [Dr. Rosette Chakkalakal](https://med.emory.edu/directory/profile/?u=RCHAKKA), [Dr. W Troy Donahoo](https://ufhealth.org/doctors/william-t-donahoo), [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372) and [Dr. Yi Guo](https://hobi.med.ufl.edu/profile/guo-yi/).
 
 **Funding**: [3R01DK120814-S1](https://reporter.nih.gov/search/fesNx3NfU0Km5Dk3kHhorg/project-details/10632758)
 
@@ -37,7 +37,7 @@ This is ongoing work with [Dr. Rosette Chakkalakal](https://med.emory.edu/direct
 1. [Varghese 2024](https://www.medrxiv.org/content/10.1101/2024.02.12.24302697v1) *medRxiv (Under Review)* on association of SARS-CoV-2 infection and body mass index changes. 
 
 ### Getting Involved
-These projects are ideal for advanced masters or doctoral students who want hands-on experience with electronic health record data.
+These projects are ideal for advanced masters or doctoral students who want hands-on experience with electronic health record data. The dataset is available to Emory graduate students as part of rotations or thesis opportunities.
 
 1. Healthcare utilization before and after COVID-19 infection
 2. Association of prediabetes and obesity phenotypes with incident diabetes

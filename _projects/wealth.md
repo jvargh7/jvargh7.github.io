@@ -3,7 +3,7 @@ layout: page
 title: Social Mobility
 description: Wealth over the life course
 img: assets/img/wealth_f1.png
-importance: 6
+importance: 7
 category: past
 ---
 

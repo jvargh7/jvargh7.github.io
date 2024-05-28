@@ -11,7 +11,10 @@ category: current
 Heterosexual and gay couples in romantic relationships are known to share cardiometabolic risk. The shared risk may be due to three reasons. First is assortative mating (i.e., people marry others similar in socio-economic characteristics or experienced similar environments earlier in life). Second is convergence of health behaviors over time. Third is accumulation of risks due to shared external and home environments. It’s important to study these dynamics for understanding what, how and when we need to intervene.
 
 
-This is ongoing work with [Dr. Shivani Patel](https://sph.emory.edu/faculty/profile/index.php?FID=shivani%20a.-patel-8776) and [Dr. Sophia Hussen](https://sph.emory.edu/faculty/profile/index.php?FID=sophia-hussen-8672)
+This is ongoing work with [Dr. Shivani Patel](https://sph.emory.edu/faculty/profile/index.php?FID=shivani%20a.-patel-8776) and [Dr. Sophia Hussen](https://sph.emory.edu/faculty/profile/index.php?FID=sophia-hussen-8672). 
+
+
+[Krishna Sanaka](https://www.linkedin.com/in/krishna-sanaka-b9babb214) is working with us on understanding famililal aggregation of hypertension in India.
 
 
 <div class="row">
@@ -25,8 +28,8 @@ This is ongoing work with [Dr. Shivani Patel](https://sph.emory.edu/faculty/prof
 
 
 ### Publications
-1. [Varghese 2024](https://www.researchsquare.com/article/rs-3865512/v1) *Research Square (Under Review)* The association of hypertension among married Indian couples: a nationally representative cross-sectional study
-1. [Varghese 2024](https://www.medrxiv.org/content/10.1101/2024.01.09.24300695v1) *MedRxiv (Under Review)* on Concordance of high blood pressure among middle-aged and older same-sex couples in the USA
+1. [Varghese 2024](https://www.nature.com/articles/s41598-024-61169-1) *Scientific Reports* The association of hypertension among married Indian couples: a nationally representative cross-sectional study
+1. [Varghese 2024](https://www.medrxiv.org/content/10.1101/2024.01.09.24300695v1) *MedRxiv* on Concordance of high blood pressure among middle-aged and older same-sex couples in the USA
 3. [Varghese 2023](https://www.ahajournals.org/doi/10.1161/JAHA.123.030765) *Journal of the American Heart Association* on cross-national comparison of spousal concordance of hypertension
     - This article has an Altmetric Score of >1000 (Top 1% of all published articles)
 

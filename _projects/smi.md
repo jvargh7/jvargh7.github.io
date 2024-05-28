@@ -11,6 +11,10 @@ One in 20 adults in USA experience serious mental illness (SMI) such as bipolar 
 This is work I am starting with [Dr. Robert O. Cotes](https://www.gradyhealth.org/doctors/robert-o-cotes/), [Dr. David Goldsmith](https://www.gradyhealth.org/doctors/david-r-goldsmith/), [Dr. Rachel Waford](https://sph.emory.edu/faculty/profile/index.php?FID=rachel-waford%20-8698) and [Dr. Francisco J. Pasquel](https://diabetes.emory.edu/people/faculty/pasquel.html)
 
 
+An abstract from this work was awarded an Early Career Award in Primary Care as part of American Diabetes Association Scientific Sessions 2024.
+
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/smi_f1.png" title="Illustration" class="img-fluid rounded z-depth-1" %}

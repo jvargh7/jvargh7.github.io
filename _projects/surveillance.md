@@ -11,9 +11,20 @@ category: current
 
 The **Precision SHODHA** project aims to provide state and local governments with actionable small areal insights on hypertension, obesity and diabetes care in USA and India. The proposed project involves harmonizing datasets from national surveys and administrative sources, use small-area estimation techniques and decision sciences frameworks.
 
-This is ongoing work with [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372), [Dr. Nikhil Tandon](https://www.aiims.edu/index.php?option=com_content&view=article&id=14186&catid=92&lang=en) and [Erica Kocher](https://sph.emory.edu/phd-students/profile/index.php?FID=erica-kocher-13051).
+This is ongoing work with [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372) and [Dr. Nikhil Tandon](https://www.aiims.edu/index.php?option=com_content&view=article&id=14186&catid=92&lang=en).
 
-We collaborate with Emory's Department of Biostatistics ([Emily Peterson](https://sph.emory.edu/faculty/profile/index.php?FID=emily-peterson-12642)) and Georgia Tech's School of Industrial and Systems Engineering ([Gian Gabriel Garcia](https://giangabrielgarcia.com/)).
+We collaborate with Emory's Department of Biostatistics ([Dr. Emily Peterson](https://sph.emory.edu/faculty/profile/index.php?FID=emily-peterson-12642)) and Georgia Tech's School of Industrial and Systems Engineering ([Dr. Gian Gabriel Garcia](https://giangabrielgarcia.com/)).
+
+
+[Erica Kocher](https://sph.emory.edu/phd-students/profile/index.php?FID=erica-kocher-13051) is working with a team from Georgia Tech to understand state-level cost effectiveness in achievement of WHO Diabetes Compact targets in India. 
+
+
+
+[Jiali Guo](https://www.linkedin.com/in/jialiguodaisy) is using electronic health records from USA to develop care continua.
+
+
+[Thomas Hsiao](https://www.linkedin.com/in/thomas-hsiao-b35247bb) is working with some cool kiosk data to develop county estimates of hypertension and overweight/obesity prevalence for USA.
+
 
 
 <div class="row justify-content-sm-center">
@@ -32,6 +43,7 @@ We collaborate with Emory's Department of Biostatistics ([Emily Peterson](https:
 ### Publications
 1. [Varghese 2023 *JAMA Internal Medicine*](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2807945) on Diabetes in India
 2. [Varghese 2023 *JAMA Network Open*](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2810984) on Hypertension in India
+3. [Varghese 2023 *The Lancet Diabetes & Endocrinology*](https://www.sciencedirect.com/science/article/abs/pii/S2213858724001244) on Advancing diabetes surveillance
 
 ### Getting Involved
 These projects are ideal for doctoral students who are interested in domestic and global health surveillance.

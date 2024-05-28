@@ -6,6 +6,11 @@
   - firstname: ["Shivani","S","S.A." ,"S. A.", "Shivani A."]
     url: https://sph.emory.edu/faculty/profile/index.php?FID=shivani%20a.-patel-8776
 
+"Ali":
+  - firstname: ["Mohammed","M","M.K." ,"M. K.", "Mohammed K."]
+    url: https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372
+
+
 "Ramirez-Zea":
   - firstname: ["Manuel","M","M."]
     url: https://www.gritconsortium.org/profiles/manuel-ramirez-zea

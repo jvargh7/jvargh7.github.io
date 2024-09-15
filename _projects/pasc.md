@@ -34,7 +34,8 @@ This is past work with [Dr. Rosette Chakkalakal](https://med.emory.edu/directory
 
 ### Publications
 
-1. [Varghese 2024](https://www.medrxiv.org/content/10.1101/2024.02.12.24302697v1) *medRxiv (Under Review)* on association of SARS-CoV-2 infection and body mass index changes. 
+1. [Varghese 2024](https://www.nature.com/articles/s41366-024-01628-x) *International Journal of Obesity* on association of SARS-CoV-2 infection and body mass index changes. 
+2. Varghese 2024 *Journal of General Internal Medicine* (Accepted) on association of SARS-CoV-2 infection and risk of type 2 diabetes. 
 
 ### Getting Involved
 These projects are ideal for advanced masters or doctoral students who want hands-on experience with electronic health record data. The dataset is available to Emory graduate students as part of rotations or thesis opportunities.

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://diabetes.emory.edu/" target="_blank">Global Diabetes Research Center</a>, Emory University.
+subtitle: <a href="https://chroniq.org" target="_blank">ChronIQ Lab</a>, Emory University.
 
 profile:
   align: right
@@ -22,7 +22,7 @@ I am an Assistant Professor at the <a href="https://diabetes.emory.edu/" target=
 ###  Student Opportunities
 My current projects are on the <b><a href="/projects"> projects</a></b> page. I enjoy working with driven and curious <u>Undergraduate</u>, <u>Masters</u> and <u>Doctoral</u> students. Given the nature of the projects I work on, some prior coursework and demonstrating proficiency in programming is ideal. I am happy to [**meet**](https://calendly.com/jvargh7/general) and discuss how we can work together.
 
-<p> <b>Here is a link to my <a href="/assets/pdf/JithinSamVarghese_Sep2024.pdf"> CV</a></b></p> 
+<p> <b>Here is a link to my <a href="/assets/pdf/JithinSamVarghese_Apr2025.pdf"> CV</a></b></p> 
 <p> <b>Here is a link to my <a href="https://calendly.com/jvargh7"> calendar</a></b></p> 
 
 ### Experience and Training

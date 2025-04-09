@@ -28,9 +28,9 @@ We are collaborating with [Dr. Joyce Ho](https://joyceho.github.io/).
 
 
 ### Getting Involved
-These projects are ideal for advanced masters or doctoral students, who are independently skilled, to apply natural language processing techniques.
+These projects are ideal for advanced masters or doctoral students, who are independently skilled, to use large language models for studying health disparities.
 
-1. Identifying key themes using NLP
+1. Identifying key themes using large language models
 
 
 ### Abstracts

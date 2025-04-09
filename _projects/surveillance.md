@@ -13,17 +13,11 @@ The **Precision SHODHA** project aims to provide state and local governments wit
 
 This is ongoing work with [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372) and [Dr. Nikhil Tandon](https://www.aiims.edu/index.php?option=com_content&view=article&id=14186&catid=92&lang=en).
 
-We collaborate with Emory's Department of Biostatistics ([Dr. Emily Peterson](https://sph.emory.edu/faculty/profile/index.php?FID=emily-peterson-12642)) and Georgia Tech's School of Industrial and Systems Engineering ([Dr. Gian Gabriel Garcia](https://giangabrielgarcia.com/)).
-
-
 [Erica Kocher](https://sph.emory.edu/phd-students/profile/index.php?FID=erica-kocher-13051) is working with a team from Georgia Tech to understand state-level cost effectiveness in achievement of WHO Diabetes Compact targets in India. 
-
-
 
 [Jiali Guo](https://www.linkedin.com/in/jialiguodaisy) is using electronic health records from USA to develop care continua.
 
-
-[Thomas Hsiao](https://www.linkedin.com/in/thomas-hsiao-b35247bb) is working with some cool kiosk data to develop county estimates of hypertension and overweight/obesity prevalence for USA.
+[Thomas Hsiao](https://www.linkedin.com/in/thomas-hsiao-b35247bb) is working with Pursuant Health to develop county estimates of hypertension and overweight/obesity prevalence for USA.
 
 
 

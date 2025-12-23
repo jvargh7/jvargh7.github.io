@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://chroniq.org" target="_blank">ChronIQ Lab</a>, Emory University.
+subtitle: <a href="https://www.chroniq.org" target="_blank">Chroniq Lab</a>, Emory University.
 
 profile:
   align: right

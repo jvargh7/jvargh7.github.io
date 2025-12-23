@@ -1,20 +1,17 @@
 ---
 layout: page
-title: Spousal Concordance
-description: Concordance of Cardiometabolic Risk in Couples
+title: Familial Concordance
+description: Concordance of Cardiometabolic Risk in Families
 img: assets/img/spouses_f1.png
-importance: 3
-category: current
+importance: 4
+category: past
 ---
 
 
 Heterosexual and gay couples in romantic relationships are known to share cardiometabolic risk. The shared risk may be due to three reasons. First is assortative mating (i.e., people marry others similar in socio-economic characteristics or experienced similar environments earlier in life). Second is convergence of health behaviors over time. Third is accumulation of risks due to shared external and home environments. It’s important to study these dynamics for understanding what, how and when we need to intervene.
 
 
-This is ongoing work with [Dr. Shivani Patel](https://sph.emory.edu/faculty/profile/index.php?FID=shivani%20a.-patel-8776) and [Dr. Sophia Hussen](https://sph.emory.edu/faculty/profile/index.php?FID=sophia-hussen-8672). 
-
-
-[Krishna Sanaka](https://www.linkedin.com/in/krishna-sanaka-b9babb214) is working with us on understanding famililal aggregation of hypertension in India.
+This is past work with [Dr. Shivani Patel](https://sph.emory.edu/faculty/profile/index.php?FID=shivani%20a.-patel-8776), [Dr. Sophia Hussen](https://sph.emory.edu/faculty/profile/index.php?FID=sophia-hussen-8672),[Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372) and [Krishna Sanaka](https://www.linkedin.com/in/krishna-sanaka-b9babb214).
 
 
 <div class="row">
@@ -28,9 +25,10 @@ This is ongoing work with [Dr. Shivani Patel](https://sph.emory.edu/faculty/prof
 
 
 ### Publications
-1. [Varghese 2024](https://www.nature.com/articles/s41598-024-61169-1) *Scientific Reports* The association of hypertension among married Indian couples: a nationally representative cross-sectional study
-1. [Varghese 2024](https://www.medrxiv.org/content/10.1101/2024.01.09.24300695v1) *MedRxiv* on Concordance of high blood pressure among middle-aged and older same-sex couples in the USA
-3. [Varghese 2023](https://www.ahajournals.org/doi/10.1161/JAHA.123.030765) *Journal of the American Heart Association* on cross-national comparison of spousal concordance of hypertension
+1. [Sanaka 2025 *Journal of the American Heart Association*](https://www.ahajournals.org/doi/10.1161/JAHA.125.044340) on familial concordance in India.
+2. [Opara 2025 *Annals of Epidemiology*](https://www.sciencedirect.com/science/article/abs/pii/S104727972500095X?via%3Dihub) on concordance of high blood pressure among middle-aged and older same-sex couples in the USA
+3. [Varghese 2024 *Scientific Reports*](https://www.nature.com/articles/s41598-024-61169-1) The association of hypertension among married Indian couples: a nationally representative cross-sectional study
+4. [Varghese 2023 *Journal of the American Heart Association*](https://www.ahajournals.org/doi/10.1161/JAHA.123.030765) on cross-national comparison of spousal concordance of hypertension
     - This article has an Altmetric Score of >1000 (Top 1% of all published articles)
 
 ### Opinion/Commentary
@@ -45,17 +43,3 @@ This is ongoing work with [Dr. Shivani Patel](https://sph.emory.edu/faculty/prof
 4. Detroit Local 4 Interview: [Does your partner have high blood pressure? You should get screened regularly](https://www.youtube.com/watch?v=EHRuN05QMs0)
 5. Fox 32 Chicago Interview: [Couples often share high blood pressure, study shows](https://www.youtube.com/watch?v=QhhfbMr2nTE)
 6. New York Post: [Being married will raise your blood pressure — but not for the reason you think: study](https://nypost.com/2023/12/06/lifestyle/being-married-will-raise-your-blood-pressure-but-not-for-the-reason-you-think-study/)
-
-### Getting Involved
-These projects are ideal for advanced masters students and early stage doctoral students who want hands-on experience with cohort studies. Students will have an opportunity to lead a cross-institutional publication with experts from University of Michigan ([Dr. Chihua Li](https://www.linkedin.com/in/chihua-li-38469a135)) and The University of Hong Kong ([Dr. Peiyi Lu](https://www.socialwork.hku.hk/peiyi/)).
-
-1. Incidence of diabetes, hypertension and dyslipidemia after a partner's diagnosis
-2. Concordance of diabetes among couples: a cross-national study
-3. Concordance of cardiometabolic screening and management status between couples
-4. Concordance of cardiometabolic disease, depression and cognition between couples
-
-
-### Pre-requisites
-1. Proficiency in R
-2. Required Coursework: GH 523: Quantitative Methods or equivalent training in survey data analysis, EPI 568 Bias Analysis
-3. Ideal Coursework: EPI 563 Concepts and Applications in Spatial Epidemiology or equivalent training in spatial analysis

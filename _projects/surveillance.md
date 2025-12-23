@@ -2,53 +2,34 @@
 layout: page
 title: Surveillance
 description: Precision Public Health
-img: assets/img/surveillance_f1.png
+img: assets/img/surveillance_f4.png
 importance: 1
 category: current
 ---
 
-## Precision Surveillance of Hypertension, Obesity and Diabetes for Healthy Aging
+## Surveillance
 
-The **Precision SHODHA** project aims to provide state and local governments with actionable small areal insights on hypertension, obesity and diabetes care in USA and India. The proposed project involves harmonizing datasets from national surveys and administrative sources, use small-area estimation techniques and decision sciences frameworks.
+The objective is to generate with actionable small areal insights on hypertension, obesity and diabetes care in USA and India. The approach is to harmonize probability sample surveys and non-probability data sources such as administrative sources, and use small-area estimation techniques and decision sciences frameworks.
 
-This is ongoing work with [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372) and [Dr. Nikhil Tandon](https://www.aiims.edu/index.php?option=com_content&view=article&id=14186&catid=92&lang=en).
-
-[Erica Kocher](https://sph.emory.edu/phd-students/profile/index.php?FID=erica-kocher-13051) is working with a team from Georgia Tech to understand state-level cost effectiveness in achievement of WHO Diabetes Compact targets in India. 
-
-[Jiali Guo](https://www.linkedin.com/in/jialiguodaisy) is using electronic health records from USA to develop care continua.
-
-[Thomas Hsiao](https://www.linkedin.com/in/thomas-hsiao-b35247bb) is working with Pursuant Health to develop county estimates of hypertension and overweight/obesity prevalence for USA.
+I collaborated with [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372), [Dr. Nikhil Tandon](https://www.aiims.edu/index.php?option=com_content&view=article&id=14186&catid=92&lang=en), [Thomas Hsiao](https://www.linkedin.com/in/thomas-hsiao-b35247bb), and others.
 
 
+### Publications: USA
 
-<div class="row justify-content-sm-center">
-    <div class="row justify-content-sm-center">
-        {% include figure.html path="assets/img/surveillance_f2.png" title="Hypertension" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="row justify-content-sm-center">
-        {% include figure.html path="assets/img/surveillance_f3.jpg" title="Diabetes" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Estimates of Hypertension and Diabetes Care Continuum in India from NFHS-5, 2019-21.
-</div>
+We collaborated with Lauren Fede and Cameron Gocke of [Pursuant Health LLC](https://www.pursuanthealth.com/) to report the following:
 
+1. [Hsiao 2025 *JAMA Cardiology*](https://doi.org/10.1001/jamacardio.2025.2487) presents national care continua for high blood pressure using data from health kiosks 
+2. [Hsiao 2025 *Hypertension*](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25829) presents subnational (county, state) care continua for high blood pressure using data from health kiosks 
+3. [Varghese 2025 *Obesity (Under Review)*](https://www.medrxiv.org/content/10.1101/2025.08.09.25333364v1) presents subnational estimates of overweight and obesity using data from health kiosks and Epic Cosmos. 
 
-### Publications
+### Publications: India
+
 1. [Varghese 2023 *JAMA Internal Medicine*](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2807945) on Diabetes in India
 2. [Varghese 2023 *JAMA Network Open*](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2810984) on Hypertension in India
 3. [Varghese 2023 *The Lancet Diabetes & Endocrinology*](https://www.sciencedirect.com/science/article/abs/pii/S2213858724001244) on Advancing diabetes surveillance
 
 ### Getting Involved
-These projects are ideal for doctoral students who are interested in domestic and global health surveillance.
-
-1. Regional and socio-demographic disparities in cardiometabolic disease care continuum
-2. Cost effectiveness of intervening on different steps of disease care continuum
-3. Prevalence of cardiometabolic disease subphenotypes
-4. Population achievement of personalized targets for glycemic and blood pressure control in India
-5. Care continuum among youth-onset diabetes in India
-6. Data visualization tools for continuum of care in India and USA
-7. Data fusion of real-world data, surveys and kiosk data for spatial statistics
+These projects are ideal for doctoral students who are interested in using non-probability samples for non-communicable disease surveillance
 
 
 ### Pre-requisites

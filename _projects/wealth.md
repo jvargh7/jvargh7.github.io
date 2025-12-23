@@ -27,9 +27,9 @@ This is past work with [Dr. Aryeh Stein](https://sph.emory.edu/faculty/profile/i
 
 
 ### Publications
-1. [Varghese 2022](https://doi.org/10.1016/j.wss.2022.100115) *Wellbeing, Space & Society*  on subjective social status, and health in three LMICs
-2. [Varghese 2022](https://doi.org/10.1186/s12874-022-01757-9) *BMC Medical Research Methodology*  on conditional wealth as a measure of relative social mobility
-3. [Varghese 2021](https://doi.org/10.1016/j.ssmph.2021.100880) *SSM Population Health*  on subjective social status, nutritional status and mental health in Guatemala
-4. [Varghese 2021](https://doi.org/10.1016/j.ssmph.2021.100852 ) *SSM Population Health*  on relative wealth mobility and health in Guatemala
-5. [Varghese 2021](https://doi.org/10.1016/j.ssmph.2021.100976) *SSM Population Health* on temporally harmonized asset index in five countries (Brazil, Guatemala, India, Philippines, South Africa)
-6. [Varghese 2021](https://doi.org/10.1186/s12874-021-01263-4) *BMC Medical Research Methodology* on temporally harmonized asset index in Guatemala
+1. [Varghese 2022 *Wellbeing, Space & Society*](https://doi.org/10.1016/j.wss.2022.100115) on subjective social status, and health in three LMICs
+2. [Varghese 2022 *BMC Medical Research Methodology*](https://doi.org/10.1186/s12874-022-01757-9) on conditional wealth as a measure of relative social mobility
+3. [Varghese 2021 *SSM Population Health*](https://doi.org/10.1016/j.ssmph.2021.100880) on subjective social status, nutritional status and mental health in Guatemala
+4. [Varghese 2021 *SSM Population Health*](https://doi.org/10.1016/j.ssmph.2021.100852 ) on relative wealth mobility and health in Guatemala
+5. [Varghese 2021 *SSM Population Health*](https://doi.org/10.1016/j.ssmph.2021.100976) on temporally harmonized asset index in five countries (Brazil, Guatemala, India, Philippines, South Africa)
+6. [Varghese 2021 *BMC Medical Research Methodology*](https://doi.org/10.1186/s12874-021-01263-4) on temporally harmonized asset index in Guatemala

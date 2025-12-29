@@ -17,13 +17,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor at the <a href="https://www.sph.emory.edu/departments/gh/index.html" target="_blank">Hubert Department of Global Health</a>. I am also core faculty in the <a href="https://diabetes.emory.edu/" target="_blank">Emory Global Diabetes Research Center</a>.
+I am an Assistant Professor at the <a href="https://www.sph.emory.edu/departments/gh/index.html" target="_blank">Hubert Department of Global Health</a>. I am also core faculty in the <a href="https://diabetes.emory.edu/" target="_blank">Emory Global Diabetes Research Center</a>. 
 
-###  Student Opportunities
-My current projects are on the <b><a href="/projects"> projects</a></b> page. I enjoy working with driven and curious <u>Undergraduate</u>, <u>Masters</u> and <u>Doctoral</u> students. Given the nature of the projects I work on, some prior coursework and demonstrating proficiency in programming is esssential. I am happy to [**meet**](https://calendly.com/jvargh7/general) and discuss how we can work together.
+<b>Currently</b>, my <b><a href="https://chroniq-lab.github.io/team/">team</a></b> and I study how metabolic differences at the individual level manifest as differences in morbidity (*metabolic*, *cardiovascular*, *psychiatric*, *cancer*, *neurodegenerative*) and mortality at the population level. We use different data sources (*electronic health records*, *cohorts*, *surveys*, *non-traditional data streams*) and analytical approaches (*traditional statistical models*, *machine learning*, *latent variable models*) to answer these questions.
 
-<p> <b>Here is a link to my <a href="/assets/pdf/JithinSamVarghese_Jan2026.pdf"> CV</a></b></p> 
-<p> <b>Here is a link to my <a href="https://calendly.com/jvargh7"> calendar</a></b></p> 
+###  Trainee Opportunities
+I enjoy working with curious, driven, and ambitious trainees who want to challenge themselves in a fast-paced environment and publish first-author papers. A detailed list of publications, conference presentations, and other achievements of current and past team members are on the <b><a href="https://chroniq-lab.github.io/achievements/">lab website</a></b>.
+
+<p>My current projects are on the <b><a href="/projects"> projects</a></b> page. Given the nature of the projects I work on, prior coursework and demonstrating proficiency in programming is esssential. I am happy to <b><a href="https://calendly.com/jvargh7/general">meet</a></b> and discuss how we can work together.</p> 
+
+<p> <b>Here is a link to my <a href="/assets/pdf/JithinSamVarghese_Jan2026.pdf"> CV</a></b>.</p> 
+<p> <b>Here is a link to my <a href="https://calendly.com/jvargh7"> calendar</a></b>.</p>
 
 ### Experience and Training
 

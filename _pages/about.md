@@ -26,7 +26,7 @@ I enjoy working with curious, driven, and ambitious trainees who want to challen
 
 <p>My current projects are on the <b><a href="/projects"> projects</a></b> page. Given the nature of the projects I work on, prior coursework and demonstrating proficiency in programming is esssential. I am happy to <b><a href="https://calendly.com/jvargh7/general">meet</a></b> and discuss how we can work together.</p> 
 
-<p> <b>Here is a link to my <a href="/assets/pdf/JithinSamVarghese_Jan2026.pdf"> CV</a></b>.</p> 
+<p> <b>Here is a link to my <a href="/assets/pdf/JithinSamVarghese_Jan2026v2.pdf"> CV</a></b>.</p> 
 <p> <b>Here is a link to my <a href="https://calendly.com/jvargh7"> calendar</a></b>.</p>
 
 ### Experience and Training

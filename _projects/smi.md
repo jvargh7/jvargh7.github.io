@@ -22,8 +22,8 @@ This is ongoing work with [Dr. Robert O. Cotes](https://www.gradyhealth.org/doct
 
 
 ### Publications
-
-1. [Varghese 2025 *International Journal of Obesity*](https://doi.org/10.1038/s41366-025-01885-4) on weight change after prescription of incretin mimetics.
+1. [Guo 2025 *Psychiatry Research*](https://doi.org/10.1016/j.psychres.2025.116925) on metabolic monitoring and control by antipsychotic prescription after diabetes diagnosis.
+2. [Varghese 2025 *International Journal of Obesity*](https://doi.org/10.1038/s41366-025-01885-4) on weight change after prescription of incretin mimetics.
 
 ### Abstracts
 
@@ -33,7 +33,7 @@ This is ongoing work with [Dr. Robert O. Cotes](https://www.gradyhealth.org/doct
 ### Getting Involved
 These projects are ideal for MD or doctoral students interested in the intersection of mental and metabolic health.
 
-1. Metabolic and inflammatory heterogeneity in patients with SMI on treatment response
+1. Role of metabolic and inflammatory heterogeneity in patients with SMI on treatment response.
 2. Target trial approaches for treatment effect of co-prescription of second-generation antipsychotics and glucose lowering medications on emergency room admissions and cardiometabolic health
 
 

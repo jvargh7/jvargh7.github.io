@@ -24,8 +24,8 @@ This is ongoing work with [Zhongyu Li](https://www.linkedin.com/in/zhongyu-li-46
 
 ### Publications
 
-1. [Li 2025 *Accepted: Diabetologia*](https://www.medrxiv.org/content/10.1101/2024.10.08.24315128v2) on translating subtypes from cohort studies to Epic Cosmos
-2. Guo 2025 *Accepted: Diabetes Care* on pathophysiological risk factors of subtypes in cohort studies.
+1. [Li 2025 *Diabetologia (Accepted)*](https://www.medrxiv.org/content/10.1101/2024.10.08.24315128v2) on translating subtypes from cohort studies to Epic Cosmos
+2. Guo 2025 *Diabetes Care (Accepted)* on pathophysiological risk factors of subtypes in cohort studies.
 3. [Guo 2025 *Journal of Diabetes and Its Complications*](https://www.sciencedirect.com/science/article/abs/pii/S1056872725002600?via%3Dihub) on subtypes of newly diagnosed diabetes among youth
 4. [Varghese 2023 *Lancet Diabetes & Endocrinology*](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(23)00195-X/fulltext) Correspondence on Replicability of subphenotypes
 5. [Varghese 2023 *Primary Care Diabetes*](https://www.primary-care-diabetes.com/article/S1751-9918(22)00151-6/fulltext) Brief Report on Ethnic Differences of subphenotypes

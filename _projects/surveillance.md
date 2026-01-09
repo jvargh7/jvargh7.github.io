@@ -20,7 +20,7 @@ We collaborated with Lauren Fede and Cameron Gocke of [Pursuant Health LLC](http
 
 1. [Hsiao 2025 *JAMA Cardiology*](https://doi.org/10.1001/jamacardio.2025.2487) presents national care continua for high blood pressure using data from health kiosks 
 2. [Hsiao 2025 *Hypertension*](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25829) presents subnational (county, state) care continua for high blood pressure using data from health kiosks 
-3. [Varghese 2025 *Obesity (Under Review)*](https://www.medrxiv.org/content/10.1101/2025.08.09.25333364v1) presents subnational estimates of overweight and obesity using data from health kiosks and Epic Cosmos. 
+3. [Varghese 2025 *Obesity (Accepted)*](https://www.medrxiv.org/content/10.1101/2025.08.09.25333364v1) presents subnational estimates of overweight and obesity using data from health kiosks and Epic Cosmos. 
 
 ### Publications: India
 

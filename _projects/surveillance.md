@@ -11,7 +11,7 @@ category: current
 
 The objective is to generate with actionable small areal insights on hypertension, obesity and diabetes care in USA and India. The approach is to harmonize probability sample surveys and non-probability data sources such as administrative sources, and use small-area estimation techniques and decision sciences frameworks.
 
-I collaborated with [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372), [Dr. Nikhil Tandon](https://www.aiims.edu/index.php?option=com_content&view=article&id=14186&catid=92&lang=en), [Thomas Hsiao](https://www.linkedin.com/in/thomas-hsiao-b35247bb), and others.
+I collaborated with [Dr. Mohammed K. Ali](https://sph.emory.edu/faculty/profile/index.php?FID=mohammed-ali-372), [Dr. Nikhil Tandon](https://www.aiims.edu/index.php?option=com_content&view=article&id=14186&catid=92&lang=en), [Dr. Thomas Hsiao](https://www.linkedin.com/in/thomas-hsiao-b35247bb), and others.
 
 
 ### Publications: USA

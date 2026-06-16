@@ -1,19 +1,19 @@
 <!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
 <div class="grid-item">
   {% if project.redirect -%}
   <a href="{{ project.redirect }}">
     {%- else -%}
     <a href="{{ project.url | relative_url }}">
       {%- endif %}
-      <div class="card hoverable">
+      <div class="card hoverable{% if project.category == 'current' %} project-current{% endif %}">
         {%- if project.img %}
         {%- include figure.html
           path=project.img
           alt="project thumbnail" -%}
         {%- endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+          <span class="project-badge badge-{{ project.category }}">{% if project.caption %}{{ project.caption }}{% else %}{{ project.category }}{% endif %}</span>
+          <h2 class="card-title">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {%- if project.github -%}
@@ -30,6 +30,7 @@
             </div>
             {%- endif %}
           </div>
+          <p class="read-more">Read more &rarr;</p>
         </div>
       </div>
     </a>

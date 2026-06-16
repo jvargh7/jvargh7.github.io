@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Social Mobility
-description: Wealth over the life course
-img: assets/img/wealth_f1.png
+title: Wealth Mobility
+description: How does wealth over the life course and its changes relate to physical health, cognition, mental health, and socio-emotional wellbeing?
+img:
 importance: 7
 category: past
+caption: Social Determinants
 ---
 
 ## Wealth over the life course in low- and middle-income countries

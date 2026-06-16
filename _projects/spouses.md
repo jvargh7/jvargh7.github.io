@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Familial Concordance
-description: Concordance of Cardiometabolic Risk in Families
-img: assets/img/spouses_f1.png
+title: After the "I do"...
+description: Can families of individuals with cardiovascular and metabolic disease be leveraged as a screening and treatment modality?
+img:
 importance: 4
 category: past
+caption: Familial Concordance
 ---
 
 

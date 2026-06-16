@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Serious Mental Illness
-description: Optimize diabetes care for people living with Serious Mental Illness
-img: assets/img/smi_f1.png
-importance: 3
+title: Breaking Vicious Cycles!
+description: Individuals with serious mental illness deal with iatrogenic metabolic side effects of second generation antipsychotics. Our goal is to understand cardiovascular and metabolic disease management in this population, and evaluate if novel therapeutic interventions (like incretin mimetics) vary in their effectiveness.
+img: 
+importance: 4
 category: current
+caption: Schizophrenia Spectrum Disorders
 ---
 One in 20 adults in USA experience serious mental illness (SMI) such as bipolar disorder, schizophrenia, and related psychiatric conditions each year. Relative to the general population where 10.5% have type 2 diabetes (T2DM), people with SMI are known to experience a high burden (8-40%) of T2DM. Among those with T2DM, people with SMI have 22-58% higher risk of major cardiovascular events and are 4.2 times more likely to die prematurely from diabetes complications. It is well known that the risk of T2DM and dysglycemia is especially high among those who are prescribed second-generation antipsychotics (atypical antipsychotics or AAP), especially olanzapine and clozapine but less so for ziprasidone, aripiprazole and lurasidone
 

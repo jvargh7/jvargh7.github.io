@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Global Research Equity
-description: Discordance between Diabetes Cases and Research in Precision Medicine
-img: assets/img/pmequity_f2.png
+title: Precision Medicine, for Whom?
+description: How disproportionate is the research on precision medicine, relative to the population burden of disease?
+img: 
 importance: 5
 category: past
+caption: Global Research Equity
 ---
 
 While non-Europid populations contribute to nearly 80% of the global diabetes burdens, they are grossly underrepresented in precision medicine research.  We undertook an electronic search of literature in PubMed from 2010 to 2023 to identify studies in precision medicine in diabetes (n > 125,000) in populations from Central Asia, Central & Eastern Europe, East Asia , Latin America & Caribbean, Middle East & North Africa, South Asia, South East Asia & Pacific Islands, and Sub-Saharan Africa as well as North America and Western Europe.

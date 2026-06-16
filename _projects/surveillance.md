@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Surveillance
-description: Precision Public Health
-img: assets/img/surveillance_f4.png
-importance: 1
+title: Who are we Missing in the Data?
+description: Current non-communicable surveillance systems show only one part of the picture, with challenges of declining response rates, declining funding, and limitations in indicators captured. We are using alternative, non-probabilistic data sources to address these challenges.
+img: 
+importance: 3
 category: current
+caption: Public Health Surveillance
 ---
 
 ## Surveillance

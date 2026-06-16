@@ -1,10 +1,11 @@
 ---
 layout: page
-title: PASC
-description: SARS-CoV-2 infection and Incident Diabetes
-img: assets/img/pasc_f1.png
+title: Most of the World got COVID-19...
+description: Does SARS-CoV-2 infection really increase one's risk of diabetes?
+img: 
 importance: 6
 category: past
+caption: COVID-19 & Diabetes
 ---
 
 ## Cardiometabolic trajectories after SARS-CoV-2 infection
